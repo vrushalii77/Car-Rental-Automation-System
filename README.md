@@ -42,5 +42,7 @@ CARCADDY is a Spring Boot-based Car Rental Automation System that simplifies veh
 
 # Home Page
 
+![Image](https://github.com/user-attachments/assets/0d694374-9fc7-41ac-9965-fc97af1ed038)
+
 
 
